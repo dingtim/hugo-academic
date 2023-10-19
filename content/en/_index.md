@@ -239,8 +239,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      #text: |-
+
       # Contact (add or remove contact options as necessary)
       email: 205606585#qq.com
       phone: 8613401**1700
