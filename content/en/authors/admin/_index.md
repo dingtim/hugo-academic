@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Samuel Ding 丁韬彰
+title: Samuel Ding
 
 # Full name (for SEO)
 first_name: Samuel 
@@ -26,8 +26,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Biological Engineering
+  - Organic chemistry
   - Information Retrieval
 
 # Education to show in About widget
