@@ -107,28 +107,28 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2023-10-20'
-          description: ''
+          date_end: '2023-06-30'
+          date_start: '2022-09-01'
+          description: '2022-2023学年GPA年级前5%'
           organization: 南京一中
           organization_url: https://www.njyz.net
           title: 高二年级全学科绩点标兵
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_end: '2023-10-07'
+          date_start: ''
+          description: '全球托福标化考试成绩年级前15%（截止2023年10月7日）'
+          organization: 南京一中
+          organization_url: https://www.njyz.net
+          title: 高二年级托福标兵
+          url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: ''
+          date_start: '2023-10-20'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: 南京一中
+          organization_url: https://www.njyz.net
+          title: 高二年级MAS课程标兵
           url: ''
     design:
       columns: '2'
