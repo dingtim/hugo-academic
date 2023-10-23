@@ -96,7 +96,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: '获得荣誉'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -115,8 +115,8 @@ sections:
           title: 高二年级全学科绩点标兵
           url: ''
         - certificate_url: https://www.edx.org
-          date_end: '2023-10-07'
-          date_start: ''
+          date_end: ''
+          date_start: '2023-10-07'
           description: '全球托福标化考试成绩年级前15%（截止2023年10月7日）'
           organization: 南京一中
           organization_url: https://www.njyz.net
