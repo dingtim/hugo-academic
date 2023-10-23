@@ -41,7 +41,23 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admi
+      username: admin
+  #- block: features
+  #  content:
+  #    title: Skills
+  #    items:
+  #      - name: R
+  #        description: 90%
+  #        icon: r-project
+  #        icon_pack: fab
+  #      - name: Statistics
+  #        description: 100%
+  #        icon: chart-line
+  #        icon_pack: fas
+  #      - name: Photography
+  #        description: 10%
+  #        icon: camera-retro
+  #        icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -54,12 +70,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 学生会主席
-          company: 南京市第一中学国际部
+        - title: CEO
+          company: GenCoin
           company_url: ''
           company_logo: org-gc
-          location: 南京
-          date_start: '2023-10-20'
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -67,14 +83,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: 班长
-          company: 2022级AP2班
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: 南京
-          date_start: '2022-09-01'
-          date_end: ''
-          description: 协助班主任管理班级.
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -90,13 +106,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2023-10-20'
+          date_start: '2021-01-25'
           description: ''
-          organization: 南京一中
-          organization_url: https://www.njyz.net
-          title: 高二年级全学科绩点标兵
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
@@ -104,7 +120,7 @@ sections:
           description: Formulated informed blockchain models, hypotheses, and use cases.
           organization: edX
           organization_url: https://www.edx.org
-          title: 高二年级托福标兵
+          title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
@@ -112,7 +128,7 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 高二年级MAS课程标兵
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
