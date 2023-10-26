@@ -135,7 +135,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 最新帖子
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -201,7 +201,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: 特色出版物
       filters:
         folders:
           - publication
@@ -211,7 +211,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: 最近发表的文章
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -235,13 +235,13 @@ sections:
  #     view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: 热门话题
     design:
       columns: '2'
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: 联系我
       subtitle:
       #text: |-
 
@@ -250,11 +250,11 @@ sections:
       phone: 8613401**1700
       appointment_url: 'https://www.samuel-ding.com'
       address:
-        street: Jiefang Road
-        city: Nanjing
-        region: Jiangsu
+        street: 秦淮区中山南路301号
+        city: 南京市
+        region: 江苏省
         postcode: '210000'
-        country: China
+        country: 中国
         country_code: CN
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
