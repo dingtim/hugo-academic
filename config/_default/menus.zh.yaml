@@ -7,16 +7,16 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: 帖子
     url: '#posts'
     weight: 20
   - name: 项目
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: 话题
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: 刊物
     url: '#featured'
     weight: 50
   - name: 联系我

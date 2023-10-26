@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Samuel Ding
+title: 丁韬彰
 
 # Full name (for SEO)
 first_name: Samuel 
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student
+role: 学生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing No.1 Middle School
+  - name: 南京市第一中学国际部
     url: http://http://www.njyz.net/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,18 +26,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Biological Engineering
-  - Organic chemistry
-  - Information Retrieval
+  - 生物科技
+  - 有机化学
+  - 环境科学
+  - 心理
 
 # Education to show in About widget
 education:
   courses:
-    - course: High school student
-      institution: Nanjing No. 1 Middle School
+    - course: 高中生
+      institution: 南京市第一中学国际部
       year: 2022.9- Present
-    - course: Junior high school students
-      institution: Nanjing No. 29 Middle School
+    - course: 初中生
+      institution: 南京市第二十九中学
       year: 2019.9- 2022.6
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
@@ -68,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-Samuel Ding is a student.
+我是一名来自南京市第一中学国际部的学生。
 {style="text-align: justify;"}

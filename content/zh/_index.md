@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 关于我
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   #- block: features
@@ -60,7 +60,7 @@ sections:
   #        icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: 经验
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -78,11 +78,11 @@ sections:
           date_start: '2023-10-20'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              主要职责:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * 负责学生会日常工作；
+              * 指导和监督学生会各部门高效运转；
+              * 协助学校和学部做好各项学生工作；
         - title: 班长
           company: 2022级AP2班
           company_url: ''
@@ -90,7 +90,7 @@ sections:
           location: 南京
           date_start: '2022-09-01'
           date_end: ''
-          description: 协助班主任管理班级.
+          description: 协助班主任管理班级。
     design:
       columns: '2'
   - block: accomplishments
