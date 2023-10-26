@@ -162,7 +162,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: 项目
       filters:
         folders:
           - project
@@ -174,12 +174,16 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
+        - name: 所有
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: 学习
+          tag: study
+        - name: 实验
+          tag: experiment
+        - name: 竞赛
+          tag: competition
+        - name: 其他
+          tag: other             
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
