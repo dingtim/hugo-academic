@@ -1,7 +1,7 @@
 ---
-title: 实验室实践记录 2023-03-17 14:30-17:30
+title: 实验室实践记录 2023-03-18 14:30-17:30
 subtitle: 学习基本溶液配置
-summary: 
+summary: 学习基本溶液配置
 authors:
   - admin
 tags: [experiment]
@@ -11,7 +11,7 @@ date: '2022-03-19T00:00:00Z'
 lastMod: '2023-10-29T00:00:00Z'
 ---
 
-# 3.18 微生物实验室(14:30-17:30)
+
 
 ## 1.  配制1mol/L 的乙酸铵溶液
 
@@ -50,7 +50,7 @@ lastMod: '2023-10-29T00:00:00Z'
 
 <img title="" src="318-3.png" alt="" data-align="center">
 
-未溶解完毕的氢氧化钠溶液
+<center>未溶解完毕的氢氧化钠溶液</center>
 
 ## 3.  配制固态培养基
 
@@ -87,10 +87,13 @@ lastMod: '2023-10-29T00:00:00Z'
 配制培养基共计600mL
 
 - 切生马铃薯120g以上
+
 <img title="" src="318-6.png" alt="" data-align="center">
 
 
-- 洗净削皮切碎成小块<img title="" src="318-7.png" alt="" data-align="center">
+- 洗净削皮切碎成小块
+
+<img title="" src="318-7.png" alt="" data-align="center">
 
 
 - 在锅中加入600mL以上的水煮烂马铃薯
