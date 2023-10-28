@@ -4,14 +4,11 @@ subtitle: 观察成长中的实验松树苗
 summary: 学习认识马尾松和黑松树
 authors:
   - admin
-tags: []
+tags: [experiment]
 categories: []
 projects: []
 date: '2022-03-15T00:00:00Z'
-lastMod: '2023-10-29T00:00:00Z'
-image:
-  caption: ''
-  focal_point: ''
+lastMod: '2023-10-29T00:00:00Z
 ---
 
 
@@ -28,13 +25,13 @@ image:
 
 黑松松针更直更扎手,生长较为规整,极易受到松材线虫感染
 
-![img](file:////Users/dingtim/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+![png](./311-1.png)
 
 培养的实验用黑松树苗,目前生长一年多
 
  
 
-![图片包含 食物, 前, 电路, 桌子  描述已自动生成](file:////Users/dingtim/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+![png](./311-2.png)
 
 校园内的黑松介绍牌
 
@@ -52,7 +49,7 @@ image:
 
  
 
-![图片包含 草丛, 草, 木桩, 女人  描述已自动生成](file:////Users/dingtim/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+![png](./311-3.png)
 
 实验时人工患病枯死的黑松苗
 
