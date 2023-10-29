@@ -6,7 +6,7 @@ type: landing
 
 sections:
   - block: hero
-    demo: true # Only display this section in the Wowchemy demo site
+    demo: false # Only display this section in the Wowchemy demo site
     content:
       title: Hugo Academic Theme
       image:
@@ -106,7 +106,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: '2023-06-30'
           date_start: '2022-09-01'
           description: '2022-2023学年GPA年级前5%'
