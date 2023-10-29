@@ -131,7 +131,7 @@ sections:
           title: 高二年级MAS课程标兵
           url: ''
     design:
-      columns: '3'
+      columns: '2'
   - block: collection
     id: posts
     content:
