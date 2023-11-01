@@ -70,27 +70,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Student Council President
+          company: Nanjing No. 1 Middle School International Department
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: svg-1z
+          location: Nanjing
+          date_start: '2023-10-10'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Responsible for the daily work of the Student Union;
+              * Guide and supervise the efficient operation of various departments of the Student Union;
+              * Assist schools and departments in various student affairs;
+        - title: Monitor
+          company: AP2 Class of 2022
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: svg-1z
+          location: Nanjing
+          date_start: '2022-09-01'
+          date_end: ''
+          description: Assist the class teacher in managing the class.
     design:
       columns: '2'
   - block: accomplishments
