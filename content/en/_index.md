@@ -242,7 +242,7 @@ sections:
       #text: |-
 
       # Contact (add or remove contact options as necessary)
-      email: 205606585#qq.com
+      email: samuel.ding.06#gmail.com
       phone: 8613401**1700
       appointment_url: 'https://www.samuel-ding.com'
       address:
@@ -256,11 +256,11 @@ sections:
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
        # - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: qq
-          icon_pack: fab
-          name: 205606585
-          link: ''
+#      contact_links:
+#        - icon: qq
+#          icon_pack: fab
+#          name: 205606585
+#          link: ''
        # - icon: skype
        #   icon_pack: fab
        #   name: Skype Me
