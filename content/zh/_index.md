@@ -73,7 +73,7 @@ sections:
         - title: 学生会主席
           company: 南京市第一中学国际部
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-1z
           location: 南京
           date_start: '2023-10-20'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: 班长
           company: 2022级AP2班
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-1z
           location: 南京
           date_start: '2022-09-01'
           date_end: ''
@@ -246,7 +246,7 @@ sections:
       #text: |-
 
       # Contact (add or remove contact options as necessary)
-      email: 205606585#qq.com
+      email: samuel.ding.06#gmail.com
       phone: 8613401**1700
       appointment_url: 'https://www.samuel-ding.com'
       address:
@@ -260,11 +260,11 @@ sections:
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
        # - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: qq
-          icon_pack: fab
-          name: 205606585
-          link: ''
+    # contact_links:
+    #   - icon: qq
+    #     icon_pack: fab
+    #     name: 205606585
+    #     link: ''
        # - icon: skype
        #   icon_pack: fab
        #   name: Skype Me
