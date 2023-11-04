@@ -19,7 +19,7 @@ role: Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing No.1 Middle School
-    url: http://http://www.njyz.net/
+    url: http://www.njyz.net/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Love learning, love life.
@@ -31,13 +31,13 @@ interests:
   - Information Retrieval
 
 # Education to show in About widget
-education information:
+education:
   courses:
     - course: Nanjing No. 29 Middle School
-      institution: GPA:3.7
+      institution: GPA 3.7
       year: 2019.9- 2022.6  
     - course: Nanjing No. 1 Middle School
-      institution:   (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
+      institution: (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
       year: 2022.9- Present
   
   #  - course: BSc in Artificial Intelligence
