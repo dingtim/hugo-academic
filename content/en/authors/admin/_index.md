@@ -31,14 +31,18 @@ interests:
   - Information Retrieval
 
 # Education to show in About widget
-education:
+education information:
   courses:
-    - course: High school student
-      institution: Nanjing No. 1 Middle School
+    - course: Nanjing No. 29 Middle School
+      institution: GPA:3.7
+      year: 2019.9- 2022.6  
+    - course: Nanjing No. 1 Middle School
+      institution: |2-
+        (Original name: Nanjing No. 1 Middle school AP program)
+        GPA: 3.8, 96/100
+      
       year: 2022.9- Present
-    - course: Junior high school students
-      institution: Nanjing No. 29 Middle School
-      year: 2019.9- 2022.6
+  
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
   #   year: 2008
