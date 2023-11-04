@@ -70,7 +70,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Student Council President
+        - title: Chairperson, School Union
           company: Nanjing No. 1 Middle School International Department
           company_url: ''
           company_logo: svg-1z
@@ -83,14 +83,19 @@ sections:
               * Responsible for the daily work of the Student Union;
               * Guide and supervise the efficient operation of various departments of the Student Union;
               * Assist schools and departments in various student affairs;
-        - title: Monitor
+        - title: Class monitor
           company: AP2 Class of 2022
           company_url: ''
           company_logo: svg-1z
           location: Nanjing
           date_start: '2022-09-01'
           date_end: ''
-          description: Assist the class teacher in managing the class.
+          description: |2-
+              Responsibilities include:
+
+              * Helped teacher manage class.
+              * Helped build a warm class.
+              * Won school Advanced Class prize for class
     design:
       columns: '2'
   - block: accomplishments
@@ -106,13 +111,13 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: 
+          date_end: '2023-06-30'
+          date_start: '2021-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Nanjing No. 1 Middle School
+          organization_url: 
+          title: Scholarship
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
