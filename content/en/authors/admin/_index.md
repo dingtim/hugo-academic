@@ -42,6 +42,14 @@ education:
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
   #   year: 2008
+education:
+  courses:
+    - course: High school student
+      institution: Nanjing No. 1 Middle School
+      year: 2022.9- Present
+    - course: Junior high school students
+      institution: Nanjing No. 29 Middle School
+      year: 2019.9- 2022.6
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
