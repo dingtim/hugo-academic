@@ -3,7 +3,7 @@ title: Laboratory Practice Record 2023-03-18 14:30-17:30
 subtitle: Learn basic solution configuration
 summary: Learn basic solution configuration
 authors:
-   -admin
+   - admin
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
