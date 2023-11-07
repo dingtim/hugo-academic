@@ -159,7 +159,7 @@ sections:
           company_url: ''
           company_logo: 
           location: 
-          date_start: '2022-8-01'
+          date_start: '2022-08-01'
           date_end: '2022-08-10'
           description: |2-
 
