@@ -108,7 +108,7 @@ sections:
               
     design:
       columns: '2'
-  - block: extracurricular
+  - block: experience
     content:
       title: Extracurricular Activities
       # Date format for experience
