@@ -60,7 +60,7 @@ sections:
   #        icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Leadership
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -80,9 +80,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Responsible for the daily work of the Student Union;
-              * Guide and supervise the efficient operation of various departments of the Student Union;
-              * Assist schools and departments in various student affairs;
+              * Responsible for the daily work of the Student Union.
+              * Guide and supervise the efficient operation of various departments of the Student Union.
+              * Assist schools and departments in various student affairs.
         - title: Class monitor
           company: AP2 Class of 2022
           company_url: ''
@@ -95,7 +95,17 @@ sections:
 
               * Helped teacher manage class.
               * Helped build a warm class.
-              * Won school Advanced Class prize for class
+              * Won school Advanced Class prize for class.
+        - title: ambassador
+          company: Nanjing No. 1 Middle School
+          company_url: ''
+          company_logo: svg-1z
+          location: Nanjing
+          date_start: '2023-09-01'
+          date_end: ''
+          description: SA will become the core liaison between school alumni and the HAA Alumni Association in the post-summit era, responsible for sharing the exciting activities and information of the Alumni Association, conveying the spirit of the summit, and expanding the influence of the HAA Alumni Association.              
+              
+              
     design:
       columns: '2'
   - block: accomplishments
