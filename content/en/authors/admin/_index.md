@@ -39,7 +39,12 @@ education:
     - course: Nanjing No. 1 Middle School
       institution: (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
       year: 2022.9- Present
-  
+    - course: Standardized Tests
+      institution: TOEFL 101 (reading 28, listening 29, speaking 22, writing 22)
+      year: 2022.9- Present      
+    - course: 11th Grade AP Calculus
+      institution:  AP Mechanics C ; AP Chemistry ; AP Biology; AP Microeconomics ; AP Macroeconomic     
+      year: 20223.9- 2024.6    
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
   #   year: 2008
