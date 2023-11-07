@@ -108,6 +108,54 @@ sections:
               
     design:
       columns: '2'
+  - block: extracurricular
+    content:
+      title: Extracurricular Activities
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Team leader  National Economics Challenge China (NEC China)
+          company: National Economics Challenge China (NEC China)
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-10-30'
+          date_end: '2023-04-20'
+          description: |2-
+
+              * Joined competition NEC China, economics test. Advanced to the national competition (top 45%);.
+              * Worked as team leader, finish critical thinking and competition together.
+              * 4 people in the team.
+        - title: intern Laboratory, Forest Conservation, Nanjing Forestry University
+          company: Nanjing Forestry University
+          company_url: ''
+          company_logo: 
+          location: Nanjing
+          date_start: '2023-02-01'
+          date_end: ''
+          description: |2-
+          
+              * learnt biological experiment operations with graduate students.
+              * worked as assistant and learn scientific methods.
+        - title: Data Analyst, China Thinks Big competition (CTB)
+          company: CTB
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-10-01'
+          date_end: '2023-03-10'
+          description: |2-
+
+              * Joined CTB competition and won honor prize. 
+              * Did data analysis in a 6 people group.
+    design:
+      columns: '2'      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
