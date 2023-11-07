@@ -154,12 +154,23 @@ sections:
 
               * Joined CTB competition and won honor prize. 
               * Did data analysis in a 6 people group.
+        - title: First-Aid Training
+          company: Traning
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-8-01'
+          date_end: '2022-08-10'
+          description: |2-
+
+              * Attended the first-aid training delivered by red cross organization; Earned the certificate.          
     design:
       columns: '2'      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      #title: 'Accomplish&shy;ments'
+      title: Honors
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
