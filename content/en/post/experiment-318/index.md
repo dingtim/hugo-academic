@@ -78,8 +78,8 @@ Quantitative calculation: C1V1=C2V2
 
 A draft of the calculation
 
-| Concentration mol/L | /(control group) | 10-3 | 10-4 | 10-5 | 10-6 | 10-7 |
-| ------- | ------ | ---- | ----- | ------ | ------- | -------- --- |
+| Concentration mol/L | /(control group) | 10-3 | 10-4  | 10-5   | 10-6    | 10-7        |
+| ------- | ------ | ---- | ----- | ------ | ------- | ----------- |
 | Amount of mother solution added | / | 1mL | 0.1mL | 0.01mL | 0.001mL | 10mL of 10-6 solution |
 
 The volume of mother solution required at 10-7mol/L is less than the minimum range of the pipette, so use a 10-6mol/L solution to dilute it ten times.
