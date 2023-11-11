@@ -1,119 +1,78 @@
 ---
-title: Laboratory Practice Record 2023-03-18 14:30-17:30
-subtitle: Learn basic solution configuration
-summary: Learn basic solution configuration
+title: Laboratory Practice Record 2023-07-05 13:30-16:30
+subtitle: Perform PCR reaction and genetic analysis
+summary: Perform PCR reaction and genetic analysis
 authors:
-   - admin
+  - admin
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
-date: '2022-03-19T00:00:00Z'
-lastMod: '2023-10-29T00:00:00Z'
+date: '2022-07-05T00:00:00Z'
+lastMod: '2023-11-10T00:00:00Z'
 ---
 
 
 
-## 1. Prepare 1mol/L ammonium acetate solution
+# Perform PCR reaction and genetic analysis
 
-- Weigh 77.08g ammonium acetate solid (volatile)
+All experiments this time were completed by me under the guarantee of a graduate student
 
-- Add 400mL of water to completely dissolve
+Materials: GH45 1&2 primers, including F and R
 
-- Pour the liquid into a 1L volumetric flask
+mixed enzyme
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+Sterile water
 
-- Add volumetric flask to the mark and seal with parafilm
+![png](./705-1.png)
 
-- Stir well
+- Enzyme 90µL, one portion is 10µL, a total of two systems, one system is divided into 8 portions of 10µL, a total of 180µL
 
-<img title="" src="318-1.png" alt="" data-align="center">
+- One system of water is 63, add 7µL in one portion, totaling 126µL
 
-<center>Experimental operation introduction page</center>
+- 9µL each of 1R and 1F, 1µL aliquot for one system
 
-<img title="" src="318-2.png" alt="" data-align="center">
+- 2R and 2F plus another system
 
-<center>Prepared ammonium acetate solution</center>
+- Mix the above materials in a 2mL centrifuge tube according to the system
 
-## 2. Prepare 10mol/L sodium hydroxide solution
+- In two eight-strip tubes, add 19µL of the mixture to each tube
 
-- Weigh 400g of sodium hydroxide solid (dangerous, should be handled with gloves)
+![png](./705-2.png)
+The amplified DNA this time came from cultured bacteria, not the previous DNA sample
 
-- Add 500mL of water to completely dissolve and return to room temperature
+![png](./705-3.png)
 
-- Pour the liquid into a 1L volumetric flask
+The cultured bacteria can be seen marked with serial numbers.
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+Dip the toothpicks in order on a super clean workbench, insert them into the tubes one by one, rotate them and then take them out and throw them away.
 
-- Add volumetric flask to the mark and seal with parafilm
-1. Stir evenly
+Add to the eight joint tubes in order
 
-<img title="" src="318-3.png" alt="" data-align="center">
+Close the lid and put it into the PCR machine
 
-<center>Undissolved sodium hydroxide solution</center>
+![png](./705-4.png)
 
-## 3. Prepare solid medium
+This amplification procedure
 
-### Experimental purpose: To study the effect of riboflavin (vitamin B2) concentration on the growth of Mortierella fungus
+Make agarose gel
 
-#### Preparation: Prepare solid culture medium
+0.5g agar powder
 
-Data collection: The molar mass of riboflavin is 376.37g/mol
+50mL 1xTAE
 
-Mother liquor preparation: 10mL of 0.1mol/L riboflavin solution
+Evenly heat in microwave for two minutes
 
--Weigh 3.76g riboflavin
+After taking it out, add two drops of red nucleic acid dye
 
-- Add 8mL water to dissolve
+Pour into the mold and wait for 1.5 hours until the gel is completely solidified and the amplification process is completed.
 
-- Add 2mL of dilute sodium hydroxide solution to accelerate dissolution
+![png](./705-5.png)
 
-- After dissolving, it becomes a dark yellow solution
+This time, DNA Marker 2000 is used for comparison.
 
-Concentration gradient: 10-3, 10-4, 10-5, 10-6, 10-7mol/L
+The final result was not ideal, but there were no major operational errors.
 
-Quantitative calculation: C1V1=C2V2
-
-![png](./318-4.png)![png](./318-5.png)
-
-A draft of the calculation
-
-| Concentration mol/L | /(control group) | 10-3 | 10-4  | 10-5   | 10-6    | 10-7        |
-| ------- | ------ | ---- | ----- | ------ | ------- | ----------- |
-| Amount of mother solution added | / | 1mL | 0.1mL | 0.01mL | 0.001mL | 10mL of 10-6 solution |
-
-The volume of mother solution required at 10-7mol/L is less than the minimum range of the pipette, so use a 10-6mol/L solution to dilute it ten times.
-
-Prepare a total of 600mL of culture medium
-
-- Cut raw potatoes over 120g
-
-<img title="" src="318-6.png" alt="" data-align="center">
+![png](./705-6.png)
 
 
-- Wash, peel and chop into small pieces
-
-<img title="" src="318-7.png" alt="" data-align="center">
-
-
-- Add more than 600mL of water to the pot to boil the rotten potatoes
-
-- Add 120g glucose powder and dissolve
-
-- Filter with gauze and pour into a large beaker (plastic)
-
-<img title="" src="318-8.png" alt="" data-align="center">
-
-<img title="" src="318-9.png" alt="" data-align="center">
-
-
-- Use a measuring cylinder to take 100mL of medium liquid into a total of 6 Erlenmeyer flasks
-
-<img title="" src="318-10.png" alt="" data-align="center">
-
-
-- Add the previously calculated amount of riboflavin separately
-
-- Add 1.00g of agar powder to form a solid medium
-
-- Seal and add to autoclave at 121 degrees Celsius for 20 minutes
+The one in the middle is Marker, and there are only 3 valid results on both sides.

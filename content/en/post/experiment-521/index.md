@@ -1,119 +1,59 @@
 ---
-title: Laboratory Practice Record 2023-03-18 14:30-17:30
-subtitle: Learn basic solution configuration
-summary: Learn basic solution configuration
+title: Laboratory Practice Record 2023-05-21 14:30-17:30
+subtitle: Analysis of PCR products and agarose gel electrophoresis detection
+summary: Analysis of PCR products and agarose gel electrophoresis detection
 authors:
-   - admin
+  - admin
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
-date: '2022-03-19T00:00:00Z'
+date: '2022-05-21T00:00:00Z'
 lastMod: '2023-10-29T00:00:00Z'
 ---
 
 
+# Analysis of PCR products and agarose gel electrophoresis detection
 
-## 1. Prepare 1mol/L ammonium acetate solution
+The target DNA is its gene in the DNA product of the same fungal sample extracted in the last experiment (5.13)
 
-- Weigh 77.08g ammonium acetate solid (volatile)
+1. Operation
 
-- Add 400mL of water to completely dissolve
+Each DNA needs to add 2µL of DNA sample, 8.5µL of mixed enzyme and other buffers (mix), 12.5µL of deionized water, and 1µL of upstream and downstream primers. For a total of 7 samples, mix other components except the DNA sample into one Mix the universal solution in parts. To ensure sufficient quantity, prepare 8 parts. That is, mix 68µL, primer 8µL, and deionized water 100µL. Prepare it in a 1.5mL centrifuge tube and mix it in a small centrifuge and shaker for later use.
 
-- Pour the liquid into a 1L volumetric flask
+2. Operation
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+Take 23µL of the mixed universal solution into 7 PCR tubes, and add 7 types of DNA fragments in order. Mix well.
 
-- Add volumetric flask to the mark and seal with parafilm
+![png](./521-1.png)
 
-- Stir well
+3. PCR amplification
 
-<img title="" src="318-1.png" alt="" data-align="center">
+| Predenaturation | Denaturation | Annealing | Extension | Extension | Insulation |
+| ------ | -------------------------- | ---- | ---- | -- --- | ---- |
+| 91°C | 91°C | 55°C | 72°C | 72°C | 4°C |
+| 5min | 30s | 30s | 45s | 10min | / |
+| | Repeat 30-35 times (this experiment took 33 times) | | | | |
 
-<center>Experimental operation introduction page</center>
+It is expected to take 90-100 minutes, during which the agarose gel will be produced.
 
-<img title="" src="318-2.png" alt="" data-align="center">
+4. Make agarose gel
 
-<center>Prepared ammonium acetate solution</center>
+![png](./521-2.png)
 
-## 2. Prepare 10mol/L sodium hydroxide solution
+Add 25 mL of TAB electrophoresis buffer to 0.25 g of agar powder, and heat it in a microwave for 1 minute to melt the agar. Add a drop of dye for easy observation. Pour it into the mold box and insert the "comb" for opening holes to facilitate parallelism. Add measurement sample
 
-- Weigh 400g of sodium hydroxide solid (dangerous, should be handled with gloves)
+Pour the liquid into the opening of the agar gel, place the control solution in the opening next to it and place it in the electrophoresis device
 
-- Add 500mL of water to completely dissolve and return to room temperature
+![png](./521-3.png)
 
-- Pour the liquid into a 1L volumetric flask
+> Voltage 150V, current 200mA, time 20 minutes
+>
+![png](./521-4.png)
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+Take out the completed liquid and gel together and place them in a gel imager for observation
 
-- Add volumetric flask to the mark and seal with parafilm
-1. Stir evenly
+![png](./521-5.png)
 
-<img title="" src="318-3.png" alt="" data-align="center">
+The experiment was quite successful. The DNA extracted from the same species of bacteria was very similar, and the band positions displayed were very close.
 
-<center>Undissolved sodium hydroxide solution</center>
-
-## 3. Prepare solid medium
-
-### Experimental purpose: To study the effect of riboflavin (vitamin B2) concentration on the growth of Mortierella fungus
-
-#### Preparation: Prepare solid culture medium
-
-Data collection: The molar mass of riboflavin is 376.37g/mol
-
-Mother liquor preparation: 10mL of 0.1mol/L riboflavin solution
-
--Weigh 3.76g riboflavin
-
-- Add 8mL water to dissolve
-
-- Add 2mL of dilute sodium hydroxide solution to accelerate dissolution
-
-- After dissolving, it becomes a dark yellow solution
-
-Concentration gradient: 10-3, 10-4, 10-5, 10-6, 10-7mol/L
-
-Quantitative calculation: C1V1=C2V2
-
-![png](./318-4.png)![png](./318-5.png)
-
-A draft of the calculation
-
-| Concentration mol/L | /(control group) | 10-3 | 10-4  | 10-5   | 10-6    | 10-7        |
-| ------- | ------ | ---- | ----- | ------ | ------- | ----------- |
-| Amount of mother solution added | / | 1mL | 0.1mL | 0.01mL | 0.001mL | 10mL of 10-6 solution |
-
-The volume of mother solution required at 10-7mol/L is less than the minimum range of the pipette, so use a 10-6mol/L solution to dilute it ten times.
-
-Prepare a total of 600mL of culture medium
-
-- Cut raw potatoes over 120g
-
-<img title="" src="318-6.png" alt="" data-align="center">
-
-
-- Wash, peel and chop into small pieces
-
-<img title="" src="318-7.png" alt="" data-align="center">
-
-
-- Add more than 600mL of water to the pot to boil the rotten potatoes
-
-- Add 120g glucose powder and dissolve
-
-- Filter with gauze and pour into a large beaker (plastic)
-
-<img title="" src="318-8.png" alt="" data-align="center">
-
-<img title="" src="318-9.png" alt="" data-align="center">
-
-
-- Use a measuring cylinder to take 100mL of medium liquid into a total of 6 Erlenmeyer flasks
-
-<img title="" src="318-10.png" alt="" data-align="center">
-
-
-- Add the previously calculated amount of riboflavin separately
-
-- Add 1.00g of agar powder to form a solid medium
-
-- Seal and add to autoclave at 121 degrees Celsius for 20 minutes
+This batch of sample DNA can be sent to biological companies for further sequencing and analysis.

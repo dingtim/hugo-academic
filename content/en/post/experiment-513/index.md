@@ -1,5 +1,5 @@
 ---
-title: Laboratory Practice Record 2023-05-13 14:30-16:30
+title: Laboratory Practice Record 2023-05-13 14:30-18:30
 subtitle: Extract DNA from mycelium
 summary: Extract DNA from mycelium
 authors:
@@ -7,7 +7,7 @@ authors:
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
-date: '2022-04-15T00:00:00Z'
+date: '2022-05-13T00:00:00Z'
 lastMod: '2023-10-29T00:00:00Z'
 ---
 

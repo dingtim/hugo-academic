@@ -1,119 +1,85 @@
 ---
-title: Laboratory Practice Record 2023-03-18 14:30-17:30
-subtitle: Learn basic solution configuration
-summary: Learn basic solution configuration
+title: Laboratory Practice Record 2023-07-03 10:30-19:30
+subtitle: Preparing pine wood nematode for experimental inoculation
+summary: Preparing pine wood nematode for experimental inoculation
 authors:
-   - admin
+  - admin
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
-date: '2022-03-19T00:00:00Z'
-lastMod: '2023-10-29T00:00:00Z'
+date: '2022-07-03T00:00:00Z'
+lastMod: '2023-11-10T00:00:00Z'
 ---
 
 
 
-## 1. Prepare 1mol/L ammonium acetate solution
+# 1. Preparing pine wood nematode for experimental inoculation
 
-- Weigh 77.08g ammonium acetate solid (volatile)
+Take out the cultured petri dish from the incubator. The Botrytis cinerea previously cultured in the petri dish has been completely eaten. The pine wood nematode samples this time come from three batches: CQ09; ZJ07; AmA3
 
-- Add 400mL of water to completely dissolve
+![png](./703-1.png)
 
-- Pour the liquid into a 1L volumetric flask
+ center>Some Petri dishes of CQ09</center>
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+Operation: After disinfecting the operating table, spread a few napkins on the table, scrape off the gel-like culture medium in the petri dish with the tip of the pipette, spread it on the napkin and wrap it, and then put it with a rubber tube underneath. and was clamped into the funnel
 
-- Add volumetric flask to the mark and seal with parafilm
+![png](./703-2.png)
 
-- Stir well
+The funnel on the right is sterilized and used for this experiment.
 
-<img title="" src="318-1.png" alt="" data-align="center">
+![png](./703-3.png)
 
-<center>Experimental operation introduction page</center>
+The rubber tubes under the funnel are clamped
 
-<img title="" src="318-2.png" alt="" data-align="center">
+![png](./703-4.png)
 
-<center>Prepared ammonium acetate solution</center>
+Add autoclaved water to the funnel and set aside
 
-## 2. Prepare 10mol/L sodium hydroxide solution
+Place the wrapped petri dish and napkin in the funnel, rinse the lid of the petri dish with sterilized water and pour it into the corresponding funnel. Be careful not to contaminate each other. Finally, use a batch marked with pine wood nematode. The petri dish lid is placed on top of the paper bag
 
-- Weigh 400g of sodium hydroxide solid (dangerous, should be handled with gloves)
+![png](./703-5.png)
 
-- Add 500mL of water to completely dissolve and return to room temperature
+Funnel draining nematodes
 
-- Pour the liquid into a 1L volumetric flask
+Label each funnel with the nematode batch marked and wait three hours
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+![png](./703-6.png)
 
-- Add volumetric flask to the mark and seal with parafilm
-1. Stir evenly
+The completed funnel is ready for the next step.
 
-<img title="" src="318-3.png" alt="" data-align="center">
+Use a 15mL centrifuge tube to connect 13-14mL of insect solution in the funnel. Attach the label next to the funnel to the centrifuge tube, being careful not to contaminate each other.
 
-<center>Undissolved sodium hydroxide solution</center>
+![png](./703-7.png)
 
-## 3. Prepare solid medium
-
-### Experimental purpose: To study the effect of riboflavin (vitamin B2) concentration on the growth of Mortierella fungus
-
-#### Preparation: Prepare solid culture medium
-
-Data collection: The molar mass of riboflavin is 376.37g/mol
-
-Mother liquor preparation: 10mL of 0.1mol/L riboflavin solution
-
--Weigh 3.76g riboflavin
-
-- Add 8mL water to dissolve
-
-- Add 2mL of dilute sodium hydroxide solution to accelerate dissolution
-
-- After dissolving, it becomes a dark yellow solution
-
-Concentration gradient: 10-3, 10-4, 10-5, 10-6, 10-7mol/L
-
-Quantitative calculation: C1V1=C2V2
-
-![png](./318-4.png)![png](./318-5.png)
-
-A draft of the calculation
-
-| Concentration mol/L | /(control group) | 10-3 | 10-4  | 10-5   | 10-6    | 10-7        |
-| ------- | ------ | ---- | ----- | ------ | ------- | ----------- |
-| Amount of mother solution added | / | 1mL | 0.1mL | 0.01mL | 0.001mL | 10mL of 10-6 solution |
-
-The volume of mother solution required at 10-7mol/L is less than the minimum range of the pipette, so use a 10-6mol/L solution to dilute it ten times.
-
-Prepare a total of 600mL of culture medium
-
-- Cut raw potatoes over 120g
-
-<img title="" src="318-6.png" alt="" data-align="center">
+<center>A total of 19 centrifuge tubes completed</center>
 
 
-- Wash, peel and chop into small pieces
+At this time, there are many impurities such as viruses on nematodes in the worm liquid, so it is necessary to rinse in advance and add clean water again, observe the nematodes settling below, and mix some worm liquids from the same batch with less worms to form 16 centrifuge tubes
 
-<img title="" src="318-7.png" alt="" data-align="center">
+Put all 16 centrifuge tubes into a high-speed centrifuge and centrifuge for 180 seconds, then take them out and take out the supernatant.
 
+![png](./703-8.png)
 
-- Add more than 600mL of water to the pot to boil the rotten potatoes
-
-- Add 120g glucose powder and dissolve
-
-- Filter with gauze and pour into a large beaker (plastic)
-
-<img title="" src="318-8.png" alt="" data-align="center">
-
-<img title="" src="318-9.png" alt="" data-align="center">
+<center>Centrifuge tubes ready for centrifugation</center>
 
 
-- Use a measuring cylinder to take 100mL of medium liquid into a total of 6 Erlenmeyer flasks
+![png](./703-9.png)
 
-<img title="" src="318-10.png" alt="" data-align="center">
+<center>Removing serum</center>
 
 
-- Add the previously calculated amount of riboflavin separately
+Take out 20µL of the completed worm liquid and count the worms in the worm liquid under a microscope. Count the worms at least twice and calculate the average number to get the approximate number of nematodes in the entire tube. Then perform calculations to get the number of nematodes in each batch. The approximate volume of sample required to remove 3,000 worms
 
-- Add 1.00g of agar powder to form a solid medium
+![png](./703-10.png)
 
-- Seal and add to autoclave at 121 degrees Celsius for 20 minutes
+<center>AmA3 3000 worms require 800µL insect solution</center>
+
+
+![png](./703-11.png)
+
+<center>CQ09 requires 770µL</center>
+
+
+![png](./703-12.png)
+
+<center>ZJ07 requires 1040µL</center>
