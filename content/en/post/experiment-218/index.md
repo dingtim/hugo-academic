@@ -12,7 +12,7 @@ lastMod: '2023-10-29T00:00:00Z'
 ---
 
 
-## LB medium preparation
+# LB medium preparation
 
 Two 250mL Erlenmeyer flasks
 
@@ -25,7 +25,7 @@ Tryptone 2g (orange powder)
 Distilled water 200mL
 
 1. Use a large test tube brush to clean the two Erlenmeyer flasks and dry them after washing
-![](./218-1.jpeg)
+![png](./218-1.png)
 
 2. Use the electronic scale to weigh the three drugs and pour them into the Erlenmeyer flask.
 
@@ -35,13 +35,14 @@ Distilled water 200mL
 
 4. Sterilize in an autoclave at 121 degrees Celsius for 20 minutes
 
-> Dangerous equipment, improper operation may explode, for observation of graduate students' operation
->
-> Add distilled water to the pot until it reaches the predetermined line, and check whether the waste water tank has too much or too little water.
->
-> When opening, wait until the pressure gauge returns to zero and the temperature in the pot is lower than 90 degrees Celsius.
+   Dangerous equipment, improper operation may explode, for observation of graduate students' operation
 
-5. Place the finished product on the shelf for later use! [There is a coffee machine on the table. Description has been automatically generated] (media/image2.jpeg)
+   Add distilled water to the pot until it reaches the predetermined line, and check whether the waste water tank has too much or too little water.
+
+   When opening, wait until the pressure gauge returns to zero and the temperature in the pot is lower than 90 degrees Celsius.
+
+5. Place the finished product on the shelf for later use
+![png](./218-2.png)
 
 ## Nucleotide number determination of Auh3 DNA fragments
 
@@ -70,20 +71,20 @@ DNA template fragment 100ng (solution 2.5µL)
 | Loop/time | | 32 times | | | | |
 | Remarks | Preheating | | | Extend/shorten according to reagent volume | Maintain temperature | |
 
-> ![](./218-2.png)
+![png](./218-3.png)
 
 4. Add 1µL of dye to an empty space in the eight-strip tube, add 1µL of prepared solution into the dye and mix well.
 
 5. Pour the liquid into the opening of the agar gel, place the control solution in the opening next to it and place it in the electrophoresis apparatus.
 
-> Voltage 150V, current 200mA, time 20 minutes
->
-> ![](./218-3.jpeg)
+   Voltage 150V, current 200mA, time 20 minutes
+
+![png](./218-4.jpeg)
 
 6. Take out the completed liquid and gel together and place it in the gel imager for observation
- ![](./218-4.jpeg)
+![png](./218-5.jpeg)
 
-> The left side is my operation, the right side is the graduate operation, the result on the left is slightly vague but the conclusion is correct
+   The left side is my operation, the right side is the graduate operation, the result on the left is slightly vague but the conclusion is correct
 
 Discovery: The number of nucleotides in the Auh3 fragment ranges from 750 to 1000
 
@@ -116,7 +117,7 @@ Discovery: The number of nucleotides in the Auh3 fragment ranges from 750 to 100
 2. Add a drop of dye
 
 3. Pour the offset plate and insert the "comb", wait for solidification and take out the "comb"
-![](./218-6.jpeg)
+![png](./218-6.jpeg)
 
 4. Put it into the electrophoresis apparatus. The electrophoresis apparatus contains GAE solution.
 
@@ -126,7 +127,7 @@ The workbench is sterilized by ultraviolet light. Hands need to be disinfected w
 
 Use a strip of elastic material to seal the Petri dish. Note that it needs to be sealed twice.
 
-![](./218-7.jpeg)
+![png](./218-7.jpeg)
 
 Use 8 failed Petri dishes to practice sealing, seal a good V8 Petri dish, and wait for two days to observe whether there is contamination to determine whether the sealing is successful.
 
