@@ -1,5 +1,5 @@
 ---
-title: Laboratory Practice Record 2023-02-18 15:00-17800
+title: Laboratory Practice Record 2023-02-18 15:00-18:00
 subtitle: LB medium preparation
 summary: LB medium preparation
 authors:
@@ -31,7 +31,7 @@ Distilled water 200mL
 
 3. Use two layers of sealing film to seal the bottle and tie the mouth of the bottle with a rubber ring.
 
-> Mark the mouth of the bottle: liquid name, date and personal markings
+   Mark the mouth of the bottle: liquid name, date and personal markings
 
 4. Sterilize in an autoclave at 121 degrees Celsius for 20 minutes
 
@@ -79,10 +79,10 @@ DNA template fragment 100ng (solution 2.5µL)
 
    Voltage 150V, current 200mA, time 20 minutes
 
-![png](./218-4.jpeg)
+![png](./218-4.png)
 
 6. Take out the completed liquid and gel together and place it in the gel imager for observation
-![png](./218-5.jpeg)
+![png](./218-5.png)
 
    The left side is my operation, the right side is the graduate operation, the result on the left is slightly vague but the conclusion is correct
 
@@ -117,7 +117,7 @@ Discovery: The number of nucleotides in the Auh3 fragment ranges from 750 to 100
 2. Add a drop of dye
 
 3. Pour the offset plate and insert the "comb", wait for solidification and take out the "comb"
-![png](./218-6.jpeg)
+![png](./218-6.png)
 
 4. Put it into the electrophoresis apparatus. The electrophoresis apparatus contains GAE solution.
 
@@ -127,7 +127,7 @@ The workbench is sterilized by ultraviolet light. Hands need to be disinfected w
 
 Use a strip of elastic material to seal the Petri dish. Note that it needs to be sealed twice.
 
-![png](./218-7.jpeg)
+![png](./218-7.png)
 
 Use 8 failed Petri dishes to practice sealing, seal a good V8 Petri dish, and wait for two days to observe whether there is contamination to determine whether the sealing is successful.
 
