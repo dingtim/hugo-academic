@@ -1,119 +1,76 @@
 ---
-title: Laboratory Practice Record 2023-03-18 14:30-17:30
-subtitle: Learn basic solution configuration
-summary: Learn basic solution configuration
+title: Laboratory Practice Record 2023-05-13 14:30-16:30
+subtitle: Extract DNA from mycelium
+summary: Extract DNA from mycelium
 authors:
-   - admin
+  - admin
 tags: [experiment]
 categories: [experiment]
 projects: [experiment]
-date: '2022-03-19T00:00:00Z'
+date: '2022-04-15T00:00:00Z'
 lastMod: '2023-10-29T00:00:00Z'
 ---
 
 
+# Extract DNA from mycelium
 
-## 1. Prepare 1mol/L ammonium acetate solution
+![png](./513-1.png)
 
-- Weigh 77.08g ammonium acetate solid (volatile)
+experimental method
 
-- Add 400mL of water to completely dissolve
+1. Take a small piece of mycelium from the cultured mycelium and put it into a 1.5mL centrifuge tube.
 
-- Pour the liquid into a 1L volumetric flask
+> ![png](./513-2.png)
+>
+> Bacterial cake, one of the sources of DNA
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+2. Add 0.5mL of CTAB and chloroform (dangerous goods, controlled because they can make poisons)
+![png](./513-3.png)
 
-- Add volumetric flask to the mark and seal with parafilm
+> The two reagent bottles in the middle of the screen, CTAB on the left and chloroform on the right
 
-- Stir well
+3. Place in a shaker and shake well for 1.5 hours
 
-<img title="" src="318-1.png" alt="" data-align="center">
+4. Take 0.5mL of bacterial solution in a 1.5mL centrifuge tube
 
-<center>Experimental operation introduction page</center>
+> ![png](./513-4.png)
+>
+> <center>The instructor is transferring the bacterial solution</center>
 
-<img title="" src="318-2.png" alt="" data-align="center">
+5. Centrifuge at 4 degrees Celsius and 13,000 rpm for 5 minutes
 
-<center>Prepared ammonium acetate solution</center>
+6. Take 300µL of the supernatant and add 600µL of absolute ethanol
 
-## 2. Prepare 10mol/L sodium hydroxide solution
+7. Centrifuge at 4 degrees Celsius and 13,000 rpm for 5 minutes.
 
-- Weigh 400g of sodium hydroxide solid (dangerous, should be handled with gloves)
+8. Pour off the liquid, and the DNA is now attached to the wall of the tube.
 
-- Add 500mL of water to completely dissolve and return to room temperature
+9. Add 0.5mL 75% ethanol
 
-- Pour the liquid into a 1L volumetric flask
+10. Centrifuge at 4 degrees Celsius and 13,000 rpm for 5 minutes
 
-- Rinse the beaker used for dissolution 7 times with distilled water
+11. Discard the liquid
 
-- Add volumetric flask to the mark and seal with parafilm
-1. Stir evenly
+12. Add 0.5mL 75% ethanol
 
-<img title="" src="318-3.png" alt="" data-align="center">
+13. Centrifuge at 4 degrees Celsius and 13,000 rpm for 5 minutes.
 
-<center>Undissolved sodium hydroxide solution</center>
+14. Discard the liquid
 
-## 3. Prepare solid medium
+15. Dry centrifuge tubes
 
-### Experimental purpose: To study the effect of riboflavin (vitamin B2) concentration on the growth of Mortierella fungus
+16. Add 30µL deionized water (further purified distilled water) and shake to rinse the tube wall
 
-#### Preparation: Prepare solid culture medium
+17. Take 10µL of liquid and drop it on the spectrophotometer for measurement.
 
-Data collection: The molar mass of riboflavin is 376.37g/mol
-
-Mother liquor preparation: 10mL of 0.1mol/L riboflavin solution
-
--Weigh 3.76g riboflavin
-
-- Add 8mL water to dissolve
-
-- Add 2mL of dilute sodium hydroxide solution to accelerate dissolution
-
-- After dissolving, it becomes a dark yellow solution
-
-Concentration gradient: 10-3, 10-4, 10-5, 10-6, 10-7mol/L
-
-Quantitative calculation: C1V1=C2V2
-
-![png](./318-4.png)![png](./318-5.png)
-
-A draft of the calculation
-
-| Concentration mol/L | /(control group) | 10-3 | 10-4  | 10-5   | 10-6    | 10-7        |
-| ------- | ------ | ---- | ----- | ------ | ------- | ----------- |
-| Amount of mother solution added | / | 1mL | 0.1mL | 0.01mL | 0.001mL | 10mL of 10-6 solution |
-
-The volume of mother solution required at 10-7mol/L is less than the minimum range of the pipette, so use a 10-6mol/L solution to dilute it ten times.
-
-Prepare a total of 600mL of culture medium
-
-- Cut raw potatoes over 120g
-
-<img title="" src="318-6.png" alt="" data-align="center">
-
-
-- Wash, peel and chop into small pieces
-
-<img title="" src="318-7.png" alt="" data-align="center">
-
-
-- Add more than 600mL of water to the pot to boil the rotten potatoes
-
-- Add 120g glucose powder and dissolve
-
-- Filter with gauze and pour into a large beaker (plastic)
-
-<img title="" src="318-8.png" alt="" data-align="center">
-
-<img title="" src="318-9.png" alt="" data-align="center">
-
-
-- Use a measuring cylinder to take 100mL of medium liquid into a total of 6 Erlenmeyer flasks
-
-<img title="" src="318-10.png" alt="" data-align="center">
-
-
-- Add the previously calculated amount of riboflavin separately
-
-- Add 1.00g of agar powder to form a solid medium
-
-- Seal and add to autoclave at 121 degrees Celsius for 20 minutes
+> ![png](./513-5.png)
+>
+> <center>Spectrophotometer in measurement</center>
+>
+> ![png](./513-6.png)
+>
+> <center>I try to operate</center>
+>
+> ![png](./513-7.png)
+>
+> Partial measurement results show that the quality of DNA extraction is qualified

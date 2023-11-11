@@ -1,7 +1,7 @@
 ---
 title: Laboratory Practice Record 2023-04-15 14:30-16:30
 subtitle: Observe configuration q PCR
-summary: 
+summary: Observe configuration q PCR
 authors:
   - admin
 tags: [experiment]

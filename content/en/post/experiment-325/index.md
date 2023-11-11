@@ -1,7 +1,7 @@
 ---
 title: Laboratory Practice Record 2023-03-25 14:00-17:00
 subtitle: Observe last week’s results
-summary: 
+summary: Observe last week’s results
 authors:
   - admin
 tags: [experiment]
