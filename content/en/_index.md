@@ -78,11 +78,11 @@ sections:
           date_start: '2023-10-10'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Responsible for the daily work of the Student Union.
-              * Guide and supervise the efficient operation of various departments of the Student Union.
-              * Assist schools and departments in various student affairs.
+          
+              * Collaborated with teachers to effectively manage the international department.
+              * Established and maintained a conducive academic environment within the school.
+              * Orchestrated large-scale activities for the school community.
+              
         - title: Class monitor
           company: AP2 Class of 2022
           company_url: ''
@@ -91,11 +91,11 @@ sections:
           date_start: '2022-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Helped teacher manage class.
-              * Helped build a warm class.
-              * Won school Advanced Class prize for class.
+              * Assisted teachers in managing the class effectively.
+              * Contributed to creating a warm and supportive class environment.
+              * Awarded the School Advanced Class Prize twice, recognizing the class's exceptional performance.
+              
         - title: ambassador
           company: Nanjing No. 1 Middle School
           company_url: ''
@@ -103,8 +103,10 @@ sections:
           location: Nanjing
           date_start: '2023-09-01'
           date_end: ''
-          description: SA will become the core liaison between school alumni and the HAA Alumni Association in the post-summit era, responsible for sharing the exciting activities and information of the Alumni Association, conveying the spirit of the summit, and expanding the influence of the HAA Alumni Association.              
-              
+          description: |2-
+
+              * Addressed the audience at the 2023 class opening ceremony, showcasing effective public speaking skills.
+              * Contributed 40 volunteer hours to support the recruitment of new students, actively participating in fostering a welcoming school environment.           
               
     design:
       columns: '2'
@@ -129,9 +131,9 @@ sections:
           date_end: '2023-04-20'
           description: |2-
 
-              * Joined competition NEC China, economics test. Advanced to the national competition (top 45%);.
+              * Joined competition NEC China, economics test. Advanced to the national competition (top 45%).
               * Worked as team leader, finish critical thinking and competition together.
-              * 4 people in the team.
+              
         - title: intern Laboratory, Forest Conservation, Nanjing Forestry University
           company: Nanjing Forestry University
           company_url: ''
@@ -141,8 +143,22 @@ sections:
           date_end: ''
           description: |2-
           
-              * learnt biological experiment operations with graduate students.
-              * worked as assistant and learn scientific methods.
+              * Collaborated with graduate students to acquire proficiency in biological experiment operations.
+              * Assumed the role of an assistant, actively engaging in the application and learning of scientific method.
+              
+        - title: participant, HSYLC
+          company: HSYLC
+          company_url: ''
+          company_logo: 
+          location: Shanghai
+          date_start: '2023-08-12'
+          date_end: '2023-08-19'
+          description: |2-
+          
+              * Engaged in four courses at the HSYLC, Final GPA at HSYLC: 3.71/4.0, earning 18 credits.
+              * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi.
+              * Became a member of HAA, serving as an ambassador for HSYLC.   
+
         - title: Data Analyst, China Thinks Big competition (CTB)
           company: CTB
           company_url: ''
@@ -152,8 +168,9 @@ sections:
           date_end: '2023-03-10'
           description: |2-
 
-              * Joined CTB competition and won honor prize. 
-              * Did data analysis in a 6 people group.
+              * Participated in the CTB competition and received an honorable mention. 
+              * Conducted data analysis and research paper as part of a 6-person team.
+              
         - title: First-Aid Training
           company: Traning
           company_url: ''
@@ -163,7 +180,8 @@ sections:
           date_end: '2022-08-10'
           description: |2-
 
-              * Attended the first-aid training delivered by red cross organization; Earned the certificate.          
+              * Participated in first-aid training conducted by the Red Cross organization.
+              * Successfully completed the training and obtained the corresponding certificate.          
     design:
       columns: '2'      
   - block: accomplishments
@@ -196,7 +214,7 @@ sections:
           organization_url: 
           title: Merit Students
           url: 
-        - certificate_url: http://www.seedasdan.asia/en/amc-en/
+        - certificate_url: 
           date_end: '2023-06-21'
           date_start: '2023-06-01'
           description: ''
@@ -204,6 +222,22 @@ sections:
           organization_url: http://www.seedasdan.asia/en/amc-en/
           title: Australian Mathematic Competition Distinction
           url: ''
+        - certificate_url: 
+          date_end: '2023-06-21'
+          date_start: '2023-06-01'
+          description: ''
+          organization: NEC
+          organization_url: 
+          title: NEC China top 45%
+          url: ''
+        - certificate_url: 
+          date_end: '2023-06-21'
+          date_start: '2023-06-01'
+          description: ''
+          organization: Nanjing No. 1 Middle School
+          organization_url: 
+          title: National Honor Prize
+          url: ''                    
     design:
       columns: '2'
   - block: collection
