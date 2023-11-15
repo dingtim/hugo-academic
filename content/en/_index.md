@@ -299,7 +299,7 @@ sections:
       title: Wonderful Moments
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="dtz" >}}
     design:
       columns: '1'
 # - block: collection
