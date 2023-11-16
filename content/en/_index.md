@@ -206,15 +206,15 @@ sections:
           organization_url: 
           title: Scholarship
           url: ''
-        - certificate_url: 'https://img.samuel-ding.com/imges/Mert_Students.jpg' 
+        - certificate_url: 'https://img.samuel-ding.com/imges/Merit_Students.jpg' 
           date_end: '2023-06-01'
           date_start: '2022-09-01'
           description: 
           organization: Nanjing No. 1 Middle School
           organization_url: 
           title: Merit Students
-          url: 'https://img.samuel-ding.com/imges/Mert_Students.jpg'
-        - certificate_url: 
+          url: 'https://img.samuel-ding.com/imges/Merit_Students.jpg'
+        - certificate_url: 'https://img.samuel-ding.com/imges/AMC10.jpg'
           date_end: '2023-06-21'
           date_start: '2023-06-01'
           description: ''
@@ -222,7 +222,7 @@ sections:
           organization_url: http://www.seedasdan.asia/en/amc-en/
           title: Australian Mathematic Competition Distinction
           url: 'https://img.samuel-ding.com/imges/AMC10.jpg'
-        - certificate_url: 
+        - certificate_url: 'https://img.samuel-ding.com/imges/CTB_certificate.png'
           date_end: '2023-06-21'
           date_start: '2023-06-01'
           description: ''
