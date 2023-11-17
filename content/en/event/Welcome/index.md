@@ -12,7 +12,7 @@ address:
   postcode: '210000'
   country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: The opening ceremony of the 2023 class of the International Department of Nanjing No. 1 Middle School.
 abstract: |-
 
   Why is No. 1 Middle School AP our new starting point? Are there any classmates like me who were unknown in primary school or junior High school, and didn’t even know what their strengths were? When I was in junior high school, my grades were mediocre. I did not have the opportunity or the courage to take the initiative to try to do something for the collective. No. 1 Middle School AP provides students with enough space and opportunities to show themselves, improve themselves in all aspects, and gain more recognition.
