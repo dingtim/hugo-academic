@@ -136,7 +136,7 @@ sections:
               
         - title: intern Laboratory, Forest Conservation, Nanjing Forestry University
           company: Nanjing Forestry University
-          company_url: ''
+          company_url: 'http://www.njyz.net'
           company_logo: 
           location: Nanjing
           date_start: '2023-02-01'
@@ -148,7 +148,7 @@ sections:
               
         - title: participant, HSYLC
           company: HSYLC
-          company_url: ''
+          company_url: 'https://www.hsylc.cn'
           company_logo: 
           location: Shanghai
           date_start: '2023-08-12'
@@ -203,7 +203,7 @@ sections:
           date_start: '2021-09-01'
           description: ''
           organization: Nanjing No. 1 Middle School
-          organization_url: 
+          organization_url: http://www.njyz.net
           title: Scholarship
           url: ''
         - certificate_url: 'https://img.samuel-ding.com/imges/Merit_Students.jpg' 
@@ -211,7 +211,7 @@ sections:
           date_start: '2022-09-01'
           description: 
           organization: Nanjing No. 1 Middle School
-          organization_url: 
+          organization_url: http://www.njyz.net
           title: Merit Students
           url: 'https://img.samuel-ding.com/imges/Merit_Students.jpg'
         - certificate_url: 'https://img.samuel-ding.com/imges/AMC10.jpg'
@@ -235,7 +235,7 @@ sections:
           date_start: '2023-06-01'
           description: ''
           organization: Nanjing No. 1 Middle School
-          organization_url: 
+          organization_url: http://www.njyz.net
           title: National Honor Prize
           url: ''                    
     design:
@@ -327,21 +327,21 @@ sections:
 #   design:
 #     columns: '2'
 #     view: citation
- # - block: collection
- #   id: talks
- #   content:
- #     title: Recent & Upcoming Talks
- #     filters:
- #       folders:
- #         - event
- #   design:
- #     columns: '2'
- #     view: compact
- # - block: tag_cloud
- #   content:
- #     title: Popular Topics
- #   design:
- #     columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
