@@ -42,8 +42,15 @@ education:
     - course: Standardized Tests
       institution: TOEFL 101 (reading 28, listening 29, speaking 22, writing 22)
       year: 2022.9- Present      
-    - course: 11th Grade AP Calculus
-      institution:  AP Mechanics C ; AP Chemistry ; AP Biology; AP Microeconomics ; AP Macroeconomic     
+    - course: 11th Grade AP courses
+      institution: |-
+                    AP Calculus
+                    AP Mechanics C 
+                    AP Chemistry  
+                    AP Biology 
+                    AP Microeconomics 
+                    AP Macroeconomic     
+                    
       year: 20223.9- 2024.6    
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
