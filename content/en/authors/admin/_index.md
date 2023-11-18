@@ -43,7 +43,7 @@ education:
       institution: TOEFL 101 (reading 28, listening 29, speaking 22, writing 22)
       year: 2022.9- Present      
     - course: 11th Grade AP courses
-      institution: |-
+      institution: |2-
                    - AP Calculus ; 
                    - AP Mechanics C ;
                    - AP Chemistry ; 
