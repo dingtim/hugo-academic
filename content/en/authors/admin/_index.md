@@ -44,11 +44,11 @@ education:
       year: 2022.9- Present      
     - course: 11th Grade AP courses
       institution: |-
-                    AP Calculus
-                    AP Mechanics C 
-                    AP Chemistry  
-                    AP Biology 
-                    AP Microeconomics 
+                   - AP Calculus ; 
+                   - AP Mechanics C ;
+                   - AP Chemistry ; 
+                    AP Biology ; 
+                    AP Microeconomics ;
                     AP Macroeconomic     
                     
       year: 20223.9- 2024.6    
