@@ -198,6 +198,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 'https://img.samuel-ding.com/imges/Regional_Gold_Biotechnology.jpg'
+          date_end: '2024-01-06'
+          date_start: '2024-01-06'
+          description: ''
+          organization: HOSA China 2024
+          organization_url: https://www.webloom.cn/bloom_web/#/GameData/HOSA?contestId=908868162978848767
+          title: Regional Gold Honor in Biotechnology
+          url: 'https://img.samuel-ding.com/imges/Regional_Gold_Biotechnology.jpg'
+        - certificate_url: 'https://img.samuel-ding.com/imges/Regional_Gold_Health_Education.jpg'
+          date_end: '2024-01-06'
+          date_start: '2024-01-06'
+          description: ''
+          organization: HOSA China 2024
+          organization_url: https://www.webloom.cn/bloom_web/#/GameData/HOSA?contestId=908868162978848767
+          title: Regional Gold Honor in Health Education
+          url: 'https://img.samuel-ding.com/imges/Regional_Gold_Health_Education.jpg'
         - certificate_url: 
           date_end: '2023-06-30'
           date_start: '2021-09-01'

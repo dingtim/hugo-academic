@@ -40,7 +40,7 @@ education:
       institution: (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
       year: 2022.9- Present
     - course: Standardized Tests
-      institution: TOEFL 101 (reading 28, listening 29, speaking 22, writing 22)
+      institution: TOEFL 102 (reading 30, listening 27, speaking 23, writing 22)
       year: 2022.9- Present      
     - course: 11th Grade AP courses
       institution: |-
