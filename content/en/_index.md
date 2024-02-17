@@ -136,7 +136,7 @@ sections:
               
         - title: intern Laboratory, Forest Conservation, Nanjing Forestry University
           company: Nanjing Forestry University
-          company_url: 'http://www.njyz.net'
+          company_url: 'http://www.njfu.edu.cn'
           company_logo: 
           location: Nanjing
           date_start: '2023-02-01'
@@ -183,7 +183,68 @@ sections:
               * Participated in first-aid training conducted by the Red Cross organization.
               * Successfully completed the training and obtained the corresponding certificate.          
     design:
-      columns: '2'      
+      columns: '2' 
+  - block: experience
+    content:
+      title: Volunteer
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Assistant
+          company: Nanjing No. 1 Middle School
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+
+              * Conducting after-school tutoring sessions and facilitating discussion groups.
+              * Engaging in academic discussions to enhance students' understanding of the subject matter.
+              
+        - title: HOSA Future Health Professional
+          company: HOSA
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+          
+              * Co-created an original 30-second PSA on breast cancer awareness, encompassing concept generation, scriptwriting, filming, and production
+              
+        - title: Teaching Assistance, Community Family Education Workshop
+          company: Community
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+          
+              * Served as a teacher's assistant in a Youth Career Enlightenment Course. Adapted teching method to cater to the needs of underprivileged children between the ages of 7-14, fostering their curiosity and unveiling their potentials
+
+        - title: Junior Librarian, Nanjing Collaborative Community Development Center
+          company: Nanjing Collaborative Community Development Center
+          company_url: 'http://nj.facilitator.org.cn'
+          company_logo: 
+          location: 
+          date_start: '2022-09-01'
+          date_end: ''
+          description: |2-
+
+              * Assisted in the construction of a library for underprivileged children in Nanjing and a WeChat Reading Corner. 
+              * Led outdoor hiking trips and encouraged trash collection activities promoting environmental consciousness.
+              * Committed to long-term one-on-one mentorship, providing academic counsel, and shared reading
+                      
+    design:
+      columns: '2'            
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
