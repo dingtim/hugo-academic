@@ -26,7 +26,7 @@ bio: Love learning, love life.
 
 # Interests to show in About widget
 interests:
-  - Biolog
+  - Biology
   - Chemistry
   - IEnvironmental Science
   
