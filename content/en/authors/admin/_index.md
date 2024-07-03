@@ -26,10 +26,10 @@ bio: Love learning, love life.
 
 # Interests to show in About widget
 interests:
-  - Biological Engineering
-  - Organic chemistry
-  - Information Retrieval
-
+  - Biolog
+  - Chemistry
+  - IEnvironmental Science
+  
 # Education to show in About widget
 education:
   courses:
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Samuel Ding is a student.
+Samuel DING is an outstanding student with good self study skills. He is very interested in Biology and Chemistry, and he wants to study these in the future. Besides his study, he is also very warm-hearted and always help others when they face difficulties. He always takes part in voluntary work, especially for recruit students. He is now preparing for demonstrate his abilities in future Colleges.
 {style="text-align: justify;"}
