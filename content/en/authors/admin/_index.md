@@ -44,12 +44,12 @@ education:
       year: 2022.9- Present      
     - course: 11th Grade AP courses
       institution: |-
-                    AP Calculus ; 
-                    AP Mechanics C ; 
-                    AP Chemistry ; 
-                    AP Biology ; 
-                    AP Microeconomics ; 
-                    AP Macroeconomic     
+                    AP Calculus 5 ; 
+                    AP Mechanics C 5 ; 
+                    AP Chemistry 5; 
+                    AP Biology 5 ; 
+                    AP Microeconomics 5 ; 
+                    AP Macroeconomic 5    
                     
       year: 20223.9- 2024.6    
   #  - course: BSc in Artificial Intelligence
