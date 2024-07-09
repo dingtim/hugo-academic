@@ -28,7 +28,7 @@ bio: Love learning, love life.
 interests:
   - Biology
   - Chemistry
-  - IEnvironmental Science
+  - Environmental Science
   
 # Education to show in About widget
 education:
@@ -40,7 +40,7 @@ education:
       institution: (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
       year: 2022.9- Present
     - course: Standardized Tests
-      institution: TOEFL 102 (reading 30, listening 27, speaking 23, writing 22) \n
+      institution: TOEFL 102 (reading 30, listening 27, speaking 23, writing 22) 
                    SAT  1450 (English 670, Math 780)
       year: 2022.9- Present      
     - course: 11th Grade AP courses
