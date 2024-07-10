@@ -41,7 +41,7 @@ education:
       year: 2022.9- Present
     - course: Standardized Tests
       institution: TOEFL 102 (reading 30, listening 27, speaking 23, writing 22)    
-      institution: SAT  1450 (English 670, Math 780)
+                   SAT  1450 (English 670, Math 780)
       year: 2022.9- Present      
     - course: 11th Grade AP courses
       institution: |-
