@@ -259,6 +259,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - certificate_url: 'https://img.samuel-ding.com/imges/ap-award.jpg'
+          date_end: '2024-07-03'
+          date_start: '2024-07-03'
+          description: ''
+          organization: College Board
+          organization_url: 
+          title: AP Scholar with Distinction Award
+          url: 'https://img.samuel-ding.com/imges/ap-award.jpg'
         - certificate_url: 'https://img.samuel-ding.com/imges/Regional_Gold_Biotechnology.jpg'
           date_end: '2024-01-06'
           date_start: '2024-01-06'
