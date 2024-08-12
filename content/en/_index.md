@@ -164,7 +164,7 @@ sections:
           company_url: 'https://www.jhu.edu'
           company_logo: 
           location: Baltimore
-          date_start: '2024-6-30'
+          date_start: '2024-06-30'
           date_end: '2024-08-03'
           description: |2-
           
@@ -177,7 +177,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Nanjing
-          date_start: '2024-6-30'
+          date_start: '2024-06-30'
           date_end: ''
           description: |2-
           
