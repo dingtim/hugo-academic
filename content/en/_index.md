@@ -159,6 +159,29 @@ sections:
               * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi.
               * Became a member of HAA, serving as an ambassador for HSYLC.   
 
+        - title: participant, Summer at Hopkins
+          company: JHU
+          company_url: 'https://www.jhu.edu'
+          company_logo: 
+          location: 
+          date_start: '2024-6-30'
+          date_end: '2024-08-03'
+          description: |2-
+          
+              * Engaged in 2 college courses at Johns Hopkins University, Final GPA at Hopkins: 3.85/4.0, earning 6 college credits..
+              * Studied AS.080.105.21.SU24 Introduction to Neuroscience (Grade: A-) and AS.171.118.21.SU24 Stars and the Universe: Cosmic Evolution (Grade: A）.
+              * Interviewed by the summer program administrators for the experience and study at the summer session.                
+
+        - title: Researcher, Chongwen Research Program, Nanjing Zhongshan Botanical Garden, Chinese Academy of Sciences
+          company: Chinese Academy of Sciences
+          company_url: ''
+          company_logo: 
+          location: 
+          date_start: '2024-6-30'
+          date_end: ''
+          description: |2-
+          
+
         - title: Data Analyst, China Thinks Big competition (CTB)
           company: CTB
           company_url: ''
