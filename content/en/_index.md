@@ -163,7 +163,7 @@ sections:
           company: JHU
           company_url: 'https://www.jhu.edu'
           company_logo: 
-          location: 
+          location: Baltimore
           date_start: '2024-6-30'
           date_end: '2024-08-03'
           description: |2-
@@ -176,7 +176,7 @@ sections:
           company: Chinese Academy of Sciences
           company_url: ''
           company_logo: 
-          location: 
+          location: Nanjing
           date_start: '2024-6-30'
           date_end: ''
           description: |2-
