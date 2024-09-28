@@ -87,5 +87,5 @@ email: ''
 highlight_name: true
 ---
 
-Samuel DING is an outstanding student with good self study skills. He is very interested in Biology and Chemistry, and he wants to study these in the future. Besides his study, he is also very warm-hearted and always help others when they face difficulties. He always takes part in voluntary work, especially for recruit students. He is now preparing for demonstrate his abilities in future Colleges.
+Hey there! I'm Samuel DING , I'm the person to consult when you have questions about High School Biology and Chemistry. I find joy in exploring the intricacies of life and the reactions that make our world go 'round. Volunteering? Sign me up! Especially when it comes to welcoming fresh faces to our academic family.  Right now, I'm gearing up to show colleges what I'm made of. It's not just about the grades, it's about showing my dedication. So, here's to the Journey ahead—bring it on!
 {style="text-align: justify;"}
