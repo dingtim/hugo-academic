@@ -37,10 +37,10 @@ education:
       institution: GPA 3.7
       year: 2019.9- 2022.6  
     - course: Nanjing No. 1 Middle School
-      institution: (Original name:Nanjing No. 1 Middle school AP program GPA:3.8, 96/100)
+      institution: (Original name:Nanjing No. 1 Middle school AP program GPA:4.58, 97/100)
       year: 2022.9- Present
     - course: Standardized Tests
-      institution: TOEFL 104 (reading 29, listening 29, speaking 25, writing 21)    
+      institution: TOEFL 107 (reading 30, listening 30, speaking 24, writing 23)    
                    SAT  1450 (English 670, Math 780)
       year: 2022.9- Present      
     - course: 11th Grade AP courses
@@ -53,6 +53,11 @@ education:
                     AP Macroeconomic 5    
                     
       year: 20223.9- 2024.6    
+    - course: Summer at Hopkins 2024
+      institution: |-
+                    GPA 3.85   ； Introduction to Neuroscienc： A-   ；Star/Universe - Cosmic Evolution： A
+                    
+      year: 20224.6- 2024.8       
   #  - course: BSc in Artificial Intelligence
   #    institution: Massachusetts Institute of Technology
   #   year: 2008

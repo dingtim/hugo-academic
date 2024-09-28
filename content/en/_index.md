@@ -73,7 +73,7 @@ sections:
         - title: Chairperson, School Union
           company: Nanjing No. 1 Middle School International Department
           company_url: ''
-          company_logo: svg-1z
+          company_logo: 
           location: Nanjing
           date_start: '2023-10-10'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Class monitor
           company: AP2 Class of 2022
           company_url: ''
-          company_logo: svg-1z
+          company_logo: 
           location: Nanjing
           date_start: '2022-09-01'
           date_end: ''
@@ -99,7 +99,7 @@ sections:
         - title: ambassador
           company: Nanjing No. 1 Middle School
           company_url: ''
-          company_logo: svg-1z
+          company_logo: 
           location: Nanjing
           date_start: '2023-09-01'
           date_end: ''
