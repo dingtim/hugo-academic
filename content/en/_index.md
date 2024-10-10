@@ -79,9 +79,9 @@ sections:
           date_end: ''
           description: |2-
           
-              * Collaborated with teachers to effectively manage the international department.
-              * Established and maintained a conducive academic environment within the school.
-              * Orchestrated large-scale activities for the school community.
+              * Collaborated with teachers to effectively manage the international department;
+              * Established and maintained a conducive academic environment within the school;
+              * Orchestrated large-scale activities for the school community
               
         - title: Class monitor
           company: AP2 Class of 2022
@@ -92,11 +92,11 @@ sections:
           date_end: ''
           description: |2-
 
-              * Assisted teachers in managing the class effectively.
-              * Contributed to creating a warm and supportive class environment.
-              * Awarded the School Advanced Class Prize twice, recognizing the class's exceptional performance.
+              * Assisted teachers in managing the class effectively;
+              * Contributed to creating a warm and supportive class environment;
+              * Awarded the School Advanced Class Prize twice, recognizing the class's exceptional performance
               
-        - title: ambassador
+        - title: Ambassador
           company: Nanjing No. 1 Middle School
           company_url: ''
           company_logo: 
@@ -105,8 +105,8 @@ sections:
           date_end: ''
           description: |2-
 
-              * Addressed the audience at the 2023 class opening ceremony, showcasing effective public speaking skills.
-              * Contributed 40 volunteer hours to support the recruitment of new students, actively participating in fostering a welcoming school environment.           
+              * Addressed the audience at the 2023 class opening ceremony, showcasing effective public speaking skills;
+              * Contributed 40 volunteer hours to support the recruitment of new students, actively participating in fostering a welcoming school environment           
               
     design:
       columns: '2'
@@ -131,10 +131,10 @@ sections:
           date_end: '2023-04-20'
           description: |2-
 
-              * Joined competition NEC China, economics test. Advanced to the national competition (top 45%).
-              * Worked as team leader, finish critical thinking and competition together.
+              * Joined competition NEC China, economics test. Advanced to the national competition (top 45%);
+              * Worked as team leader, finish critical thinking and competition together
               
-        - title: intern Laboratory, Forest Conservation, Nanjing Forestry University
+        - title: Intern Laboratory, Forest Conservation, Nanjing Forestry University
           company: Nanjing Forestry University
           company_url: 'http://www.njfu.edu.cn'
           company_logo: 
@@ -143,10 +143,10 @@ sections:
           date_end: ''
           description: |2-
           
-              * Collaborated with graduate students to acquire proficiency in biological experiment operations.
-              * Assumed the role of an assistant, actively engaging in the application and learning of scientific method.
+              * Collaborated with graduate students to acquire proficiency in biological experiment operations;
+              * Assumed the role of an assistant, actively engaging in the application and learning of scientific method
               
-        - title: participant, HSYLC
+        - title: Participant, HSYLC
           company: HSYLC
           company_url: 'https://www.hsylc.cn'
           company_logo: 
@@ -155,9 +155,9 @@ sections:
           date_end: '2023-08-19'
           description: |2-
           
-              * Engaged in four courses at the HSYLC, Final GPA at HSYLC: 3.71/4.0, earning 18 credits.
-              * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi.
-              * Became a member of HAA, serving as an ambassador for HSYLC.   
+              * Engaged in four courses at the HSYLC, Final GPA at HSYLC: 3.71/4.0, earning 18 credits;
+              * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi;
+              * Became a member of HAA, serving as an ambassador for HSYLC
 
         - title: participant, Summer at Hopkins
           company: JHU
@@ -168,9 +168,9 @@ sections:
           date_end: '2024-08-03'
           description: |2-
           
-              * Engaged in 2 college courses at Johns Hopkins University, Final GPA at Hopkins: 3.85/4.0, earning 6 college credits.
-              * Studied AS.080.105.21.SU24 Introduction to Neuroscience (Grade: A-) and AS.171.118.21.SU24 Stars and the Universe: Cosmic Evolution (Grade: A).
-              * Interviewed by the summer program administrators for the experience and study at the summer session.                
+              * Engaged in 2 college courses at Johns Hopkins University, Final GPA at Hopkins: 3.85/4.0, earning 6 college credits;
+              * Studied AS.080.105.21.SU24 Introduction to Neuroscience (Grade: A-) and AS.171.118.21.SU24 Stars and the Universe: Cosmic Evolution (Grade: A);
+              * Interviewed by the summer program administrators for the experience and study at the summer session                
 
         - title: Researcher, Chongwen Research Program, Nanjing Zhongshan Botanical Garden, Chinese Academy of Sciences
           company: Chinese Academy of Sciences
@@ -181,7 +181,7 @@ sections:
           date_end: ''
           description: |2-
           
-              *  Chongwen Research Program.
+              *  Chongwen Research Program
 
 
         - title: Data Analyst, China Thinks Big competition (CTB)
@@ -193,8 +193,8 @@ sections:
           date_end: '2023-03-10'
           description: |2-
 
-              * Participated in the CTB competition and received an honorable mention. 
-              * Conducted data analysis and research paper as part of a 6-person team.
+              * Participated in the CTB competition and received an honorable mention;
+              * Conducted data analysis and research paper as part of a 6-person team
               
         - title: First-Aid Training
           company: Traning
@@ -205,8 +205,8 @@ sections:
           date_end: '2022-08-10'
           description: |2-
 
-              * Participated in first-aid training conducted by the Red Cross organization.
-              * Successfully completed the training and obtained the corresponding certificate.          
+              * Participated in first-aid training conducted by the Red Cross organization;
+              * Successfully completed the training and obtained the corresponding certificate          
     design:
       columns: '2' 
   - block: experience
@@ -230,8 +230,8 @@ sections:
           date_end: ''
           description: |2-
 
-              * Conducting after-school tutoring sessions and facilitating discussion groups.
-              * Engaging in academic discussions to enhance students' understanding of the subject matter.
+              * Conducting after-school tutoring sessions and facilitating discussion groups;
+              * Engaging in academic discussions to enhance students' understanding of the subject matter
               
         - title: HOSA Future Health Professional
           company: HOSA
@@ -264,8 +264,8 @@ sections:
           date_end: ''
           description: |2-
 
-              * Assisted in the construction of a library for underprivileged children in Nanjing and a WeChat Reading Corner. 
-              * Led outdoor hiking trips and encouraged trash collection activities promoting environmental consciousness.
+              * Assisted in the construction of a library for underprivileged children in Nanjing and a WeChat Reading Corner; 
+              * Led outdoor hiking trips and encouraged trash collection activities promoting environmental consciousness;
               * Committed to long-term one-on-one mentorship, providing academic counsel, and shared reading
                       
     design:
