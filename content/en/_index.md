@@ -159,7 +159,7 @@ sections:
               * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi;
               * Became a member of HAA, serving as an ambassador for HSYLC
 
-        - title: participant, Summer at Hopkins
+        - title: Participant, Summer at Hopkins
           company: JHU
           company_url: 'https://www.jhu.edu'
           company_logo: 
