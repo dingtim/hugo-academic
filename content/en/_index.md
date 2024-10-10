@@ -156,7 +156,7 @@ sections:
           description: |2-
           
               * Engaged in four courses at the HSYLC, Final GPA at HSYLC: 3.71/4.0, earning 18 credits;
-              * Achieved commendable academic performance and exemplified the four values of Scholarship,Entreprenerurship,Leadership and Citizenshi;
+              * Achieved commendable academic performance and exemplified the four values of Scholarship, Entreprenerurship, Leadership and Citizenshi;
               * Became a member of HAA, serving as an ambassador for HSYLC
 
         - title: Participant, Summer at Hopkins
@@ -181,7 +181,7 @@ sections:
           date_end: ''
           description: |2-
           
-              *  Chongwen Research Program
+              *  Collaborated with graduates in 5 students group and researched for Taxodium 'Zhongshanshan' about its resistance waterlogging gene
 
 
         - title: Data Analyst, China Thinks Big competition (CTB)
