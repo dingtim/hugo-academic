@@ -38,16 +38,13 @@ education:
       year: 2019.9- 2022.6  
     - course: Nanjing No. 1 High School
       institution: (Original name:Nanjing No. 1 Middle school AP program)
-      year: 2022.9- Present
-    - course: Standardized Tests
-      institution: 
-      year: 2022.9- Present      
+      year: 2022.9- Presen   
     - course: 11th Grade AP courses
       institution:                   
       year: 20223.9- 2024.6    
     - course: Summer at Hopkins 2024
       institution: |-
-                    GPA 3.85； Introduction to Neuroscience:A-； Star/Universe - Cosmic Evolution:A
+                    Introduction to Neuroscience； Star/Universe - Cosmic Evolution
                     
       year: 20224.6- 2024.8       
   #  - course: BSc in Artificial Intelligence
