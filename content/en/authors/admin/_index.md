@@ -34,24 +34,16 @@ interests:
 education:
   courses:
     - course: Nanjing No. 29 Middle School
-      institution: GPA 3.7,93/100
+      institution: 
       year: 2019.9- 2022.6  
-    - course: Nanjing No. 1 Middle School
-      institution: (Original name:Nanjing No. 1 Middle school AP program GPA:4.58/4.58)
+    - course: Nanjing No. 1 High School
+      institution: (Original name:Nanjing No. 1 Middle school AP program)
       year: 2022.9- Present
     - course: Standardized Tests
-      institution: TOEFL 107 (reading 30, listening 30, speaking 24, writing 23)    
-                   SAT  1450 (English 670, Math 780)
+      institution: 
       year: 2022.9- Present      
     - course: 11th Grade AP courses
-      institution: |-
-                    AP Calculus 5 ; 
-                    AP Mechanics C 5 ; 
-                    AP Chemistry 5; 
-                    AP Biology 5 ; 
-                    AP Microeconomics 5 ; 
-                    AP Macroeconomic 5    
-                    
+      institution:                   
       year: 20223.9- 2024.6    
     - course: Summer at Hopkins 2024
       institution: |-
