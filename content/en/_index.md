@@ -309,8 +309,8 @@ sections:
           title: Regional Gold Honor in Health Education
           url: 'https://img.samuel-ding.com/imges/Regional_Gold_Health_Education.jpg'
         - certificate_url: 
-          date_end: '2023-06-30'
-          date_start: '2021-09-01'
+          date_end: '2025-06-30'
+          date_start: '2022-09-01'
           description: ''
           organization: Nanjing No. 1 Middle School
           organization_url: http://www.njyz.net
